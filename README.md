@@ -1,51 +1,40 @@
-# Hi, I'm G Prasant 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is G Prasant
+==================================================================================================================================
 
-### Full Stack Developer | MERN Stack
+Full Stack Developer | MERN Stack
+---------------------------------
 
-I'm a Full Stack Developer specializing in the MERN stack, passionate about building production-ready web applications that solve real-world problems with clean and maintainable code.
+Full Stack Developer with hands-on experience building production-ready web applications using MERN stack — MongoDB, Express.js, React.js, and Node.js. Skilled in developing RESTful APIs, implementing secure JWT authentication, and creating responsive interfaces using Redux Toolkit and Tailwind CSS. Experienced in integrating real-world features including Razorpay payment gateway and Cloudinary image management. Familiar with Git/GitHub workflows and deploying applications on Netlify, Vercel and Render. Focused on writing clean, maintainable code and delivering practical full-stack solutions.
 
----
+* 🌍  I'm based in Bangalore, India
+* 🖥️  See my portfolio at [G Prasant](http://app-my-portfolio.netlify.app)
+* ✉️  You can contact me at [prasantrao917@gmail.com](mailto:prasantrao917@gmail.com)
+* 🚀  I'm currently working on [Kartify - Full Satck Multi Vender Ecommerce Platform](http://github.com/Prasant678/Kartify-Multivendor-Ecommerce-React-SpringBoot-App)
+* 🧠  I'm currently learning Next.js, Spring Boot
 
-## 🛠️ Tech Stack
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+</p>
 
-**Frontend:**
-React.js • Redux Toolkit • JavaScript • TypeScript • Tailwind CSS • HTML • CSS
+### Socials
 
-**Backend:**
-Node.js • Express.js • REST APIs • JWT • Bcrypt
+<p align="left"> <a href="https://www.github.com/Prasant678" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/g-prasant-69361623b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/Prasant678" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Prasant678?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a>
+### Badges
 
-**Database:**
-MongoDB • MySQL
+<b>My GitHub Stats</b>
 
-**Tools:**
-Git • GitHub • Postman • Vercel • Render • AWS • Cloudinary
+<a href="http://www.github.com/Prasant678"><img src="https://github-readme-stats.vercel.app/api?username=Prasant678&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="Prasant678's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/Prasant678"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasant678&stroke=3382ed&background=22272e&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-## 🚀 Featured Projects
+<a href="https://github.com/Prasant678" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasant678&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 🍔 Flavour Food — Full-Stack Food Delivery App
-- Full-stack food delivery platform with cart management, 
-  order tracking, and Razorpay payment integration
-- Admin panel for managing menu items, orders, and deliveries
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
+<b>Top Repositories</b>
 
-### 📝 NoteIt — Smart Notes Management App
-- Notes app with user-specific data isolation and 
-  Axios Interceptors with refresh token logic
-- Advanced features: pin, archive, soft delete, restore
-- **Tech:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB
+<div width="100%" align="center"><a href="https://github.com/Prasant678/Food_Delivery_MERN_App_Flavour_Food" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasant678&repo=Food_Delivery_MERN_App_Flavour_Food&title_color=facc15&text_color=3382ed&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/Prasant678/NoteIt-Full_Stack_Notes_MERN_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasant678&repo=NoteIt-Full_Stack_Notes_MERN_App&title_color=facc15&text_color=3382ed&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### 💼 JobReady — Full-Stack Job Portal
-- Job portal with role-based access for recruiters 
-  and candidates with infinite scroll listings
-- React Hook Form + Zod validation
-- **Tech:** React.js, Tailwind CSS, Supabase, Clerk, Shadcn UI
+<br /><br /><br /><br /><br />
 
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/g-prasant-69361623b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=netlify)](https://app-my-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:prasantrao917@gmail.com)
+<div width="100%" align="center"><a href="https://github.com/Prasant678/Job_Portal_ReactJS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasant678&repo=Job_Portal_ReactJS&title_color=facc15&text_color=3382ed&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div>
