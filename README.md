@@ -12,6 +12,7 @@
 ## 📌 About Me
 A Full Stack Developer from Bengaluru, India, specializing in the MERN stack. Passionate about building production-ready web applications that solve real-world problems with clean, efficient, and maintainable code.
 <br>
+
 I enjoy working across the entire stack — from designing responsive and intuitive React.js frontends with Redux Toolkit, to building scalable Node.js and Express.js backends with secure REST APIs, JWT authentication, and MongoDB database integration. I love integrating real-world features like payment gateways, image management, and role-based access control into my projects to make them feel like actual production applications.
 - 🔭 Currently working on — Full Stack web apps using MERN stack
 - 🌱 Always learning — New tools, patterns, and best practices
