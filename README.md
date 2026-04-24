@@ -1,10 +1,8 @@
-# Hi, I'm Prasant 👋
+# Hi, I'm G Prasant 👋
 
 ### Full Stack Developer | MERN Stack
 
-I'm a Full Stack Developer specializing in the MERN stack, 
-passionate about building production-ready web applications 
-that solve real-world problems with clean and maintainable code.
+I'm a Full Stack Developer specializing in the MERN stack, passionate about building production-ready web applications that solve real-world problems with clean and maintainable code.
 
 ---
 
